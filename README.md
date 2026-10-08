@@ -16,3 +16,9 @@ HTML pages में placeholder text, notices, teachers, events और images �
 
 ## Important
 Fake school photos, unverified results, phone numbers, email, principal/teacher names आदि publish न करें।
+
+
+## Dynamic features
+See `SUPABASE_SETUP.md` for Admin Login, Notices, Contact Messages, Alumni Registration and optional email notifications.
+
+The public site remains GitHub Pages-compatible and requires no Node.js build.
